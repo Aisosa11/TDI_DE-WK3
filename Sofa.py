@@ -30,5 +30,5 @@ df = pd.json_normalize(json_data)
 
 df.to_csv('team_data.csv', index=False)
 df.to_parquet('team_data.parquet', index=False)
-team_data = pd.read_csv("team_data.csv")
+#team_data = pd.read_csv("team_data.csv")
 #print("Data saved to team_data.csv and team_data.parquet")
