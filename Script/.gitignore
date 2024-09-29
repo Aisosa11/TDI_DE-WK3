@@ -1,4 +1,3 @@
 .env
 ._pycache_
-../readme.md
 ../__pycache__/requests.cpython-312.pyc
