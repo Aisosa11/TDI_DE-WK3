@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 **DATA EXTRACTION FROM API USING REQUESTS**
 
    In this project, RapidAPI was used to get data from a sport website. After which the data was stored into a dataframe and stored in XSLX and parquet. 
@@ -37,7 +37,6 @@ Potential issues/challenges you might experience that I experience:
  - I had difficulty in installing the dotenv library and eventually settled using the          python-decouple.
  - Using the wrong format for datetime will return an error, so you have to use the strip functions to remove the spaces and also change the format from having : or .
 
-=======
 **DATA EXTRACTION FROM API USING REQUESTS**
 
    In this project, RapidAPI was used to get data from a sport website. After which the data was stored into a dataframe and stored in XSLX and parquet. 
@@ -73,8 +72,6 @@ Potential issues/challenges you might experience that I experience:
 Potential issues/challenges you might experience that I experience:
 
  - I experienced some challenges espcially using the RAPIDAPI as some of the the APIs failed initially.
- - I had difficulty in installing the dotenv library and eventually settled using the          python-decouple.
+ - I had difficulty in installing the dotenv library and eventually settled using the python-decouple.
  - Using the wrong format for datetime will return an error, so you have to use the strip functions to remove the spaces and also change the format from having : or .
-
->>>>>>> ca1ee991b6467735a690305246819e13cdd0046b
  - I learnt working with APIs and using request library. Using JSON helped me when learning more about data extraction from json.
