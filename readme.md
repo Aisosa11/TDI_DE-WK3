@@ -1,6 +1,6 @@
 **DATA EXTRACTION FROM API USING REQUESTS**
 
-   In this project, RapidAPI was used to get data from a sport websites. After which the data was stored into a dataframe and stored in XSLX and parquet. 
+   In this project, RapidAPI was used to get data from a sport website. After which the data was stored into a dataframe and stored in XSLX and parquet. 
 
 **AIM**
 - To practice how to use the requests library.
