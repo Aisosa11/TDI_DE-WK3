@@ -7,7 +7,7 @@
 - To practice how to use the requests library.
 - To learn how to extract data from website and put into a dataframe.
 - Learn how to save files extracted from website.
-- The use of env and gitignore to hide API keys.
+- The use of env to hide API keys and gitignore to ignore the env file.
 
 **REQUIREMENT**
 - RapidAPI sign-in and subcription
